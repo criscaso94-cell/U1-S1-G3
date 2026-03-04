@@ -1,0 +1,28 @@
+header{text-align: center;}
+.hr {background-color: bisque;
+    border-top:orange;
+    border: orange;
+border: 0px;
+text-align:center;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(118, 146, 137);
+text-decoration: underline;}
+header img {width: 25%;
+}
+span{color:darkcyan;}
+ 
+main {margin-left: auto;
+margin-right: auto;
+width: 50%;}
+main img { width: 100%;
+border-radius: 20px;}
+
+body{font-family: 'Times New Roman', Times, serif;}
+#fortopping {font-family: 'Times New Roman', Times, serif;
+}
+#feat {color: brown;}
+#fresh {color: darkcyan;}
+#borde {border-left: 3px solid orange;
+padding-left: 10px;}
+
+
