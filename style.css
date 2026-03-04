@@ -1,12 +1,9 @@
 header{text-align: center;}
-.hr {background-color: bisque;
-    border-top:orange;
-    border: orange;
-border: 0px;
+.hr {background-color: rgb(226, 211, 185);
+    border-top:solid 3px orange;
 text-align:center;
-font-family: 'Times New Roman', Times, serif;
-color: rgb(118, 146, 137);
-text-decoration: underline;}
+text-decoration: underline darkcyan;
+padding-bottom: 10px;}
 header img {width: 25%;
 }
 span{color:darkcyan;}
@@ -18,11 +15,14 @@ main img { width: 100%;
 border-radius: 20px;}
 
 body{font-family: 'Times New Roman', Times, serif;}
-#fortopping {font-family: 'Times New Roman', Times, serif;
-}
+
 #feat {color: brown;}
 #fresh {color: darkcyan;}
 #borde {border-left: 3px solid orange;
 padding-left: 10px;}
+.bottom
+{text-align: left;
+margin-left: -50px;}
+
 
 
